@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://fr.wikipedia.org/wiki/Pain_au_chocolat",
+        "nom": "pain_au_chocolat",
+        "source": "wikipedia"
+    },
+    {
+        "url": "https://fr.wikipedia.org/wiki/Croissant_(viennoiserie)",
+        "nom": "croissant",
+        "source": "wikipedia"
+    },
+    {
+        "url": "https://fr.wikipedia.org/wiki/Chausson_aux_pommes",
+        "nom": "chausson_aux_pommes",
+        "source": "wikipedia"
+    },
+    {
+        "url": "https://fr.wikipedia.org/wiki/Brioche",
+        "nom": "brioche",
+        "source": "wikipedia"
+    },
+    {
+        "url": "https://fr.wikipedia.org/wiki/%C3%89clair_(p%C3%A2tisserie)",
+        "nom": "eclair",
+        "source": "wikipedia"
+    },
+    {
+        "url": "https://fr.wikipedia.org/wiki/Mille-feuille",
+        "nom": "mille_feuille",
+        "source": "wikipedia"
+    },
+    {
+        "url": "https://fr.wikipedia.org/wiki/Macaron",
+        "nom": "macaron",
+        "source": "wikipedia"
+    },
+    {
+        "url": "https://fr.wikipedia.org/wiki/Baguette_(pain)",
+        "nom": "baguette",
+        "source": "wikipedia"
+    }
+]
